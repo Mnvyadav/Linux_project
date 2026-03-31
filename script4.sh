@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
 # Usage: ./script4.sh /var/log/syslog "error"
-# Author: Ankshit | Course: Open Source Software
+# Author: Manav| Course: Open Source Software
 
 LOGFILE=$1
 KEYWORD=${2:-"error"} # Default keyword is 'error'
