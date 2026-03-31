@@ -2,7 +2,7 @@
 # Script 1: System Identity Report
 # Author: Ankshit | Course: Open Source Software
 # --- Variables ---
-STUDENT_NAME="Ankshit"
+STUDENT_NAME="Manav"
 SOFTWARE_CHOICE="Git"
 
 # --- System info ---
