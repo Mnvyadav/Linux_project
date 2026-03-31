@@ -1,7 +1,7 @@
 # Open Source Audit - Git
 
-**Student Name:** Ankshit  
-**Registration Number:** 24BCE10454 
+**Student Name:** Manav Yadav 
+**Registration Number:** 24BSA10171 
 **Course:** Open Source Software  
 **Software Chosen:** Git  
 
