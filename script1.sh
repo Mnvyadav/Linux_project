@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Ankshit | Course: Open Source Software
+# Author: Manav| Course: Open Source Software
 # --- Variables ---
 STUDENT_NAME="Manav"
 SOFTWARE_CHOICE="Git"
